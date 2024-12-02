@@ -11,8 +11,8 @@
 
 ## Пример1
 - **Ключ**: SECRET
-- **Tекст**: HELLO123
-- **Зашифрованный текст**: ADFGFFGDDF
+- **Tекст**: HELLO 123
+- **Зашифрованный текст**: DVADFFFFFX VGVVVX
 ## Пример2
 - **Ключ**: key
 - **Текст**: Martha sees bananas are on sale. Bananas are usually 3 dollars per bunch, but they are 1 dollar today. Martha wants 3 bunches of bananas because she is going to make banana bread. This would normally cost Martha 9 dollars, but today it costs Martha 3 dollars. Martha saved 6 dollars. Martha also needs 2 bags of flour and 2 bags of sugar. Flour costs 3 dollars per 5-pound bag. Sugar costs 4 dollars per 5-pound bag. It costs 6 dollars for the flour and 8 dollars for the sugar. Together, they cost 14 dollars.
